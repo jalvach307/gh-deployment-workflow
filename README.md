@@ -26,3 +26,6 @@ This project demonstrates how to automatically deploy a website using GitHub Act
 ## Setup
 1. Every push to the `main` branch that modifies `index.html` will trigger a deployment.
 2. The website will be available at:
+
+https://jalvach307.github.io/gh-deployment-workflow/
+
